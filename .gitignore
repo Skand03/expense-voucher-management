@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+dist/
+server/uploads/
+server/uploads-test/
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
